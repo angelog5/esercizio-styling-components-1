@@ -1,0 +1,7 @@
+.welcome {
+  background-color: lightblue;
+  border: 2px solid darkblue;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
